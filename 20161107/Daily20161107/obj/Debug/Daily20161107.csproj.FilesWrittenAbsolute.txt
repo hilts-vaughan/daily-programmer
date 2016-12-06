@@ -1,0 +1,5 @@
+/home/touma/repos/daily-programmer/20161107/Daily20161107/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/touma/repos/daily-programmer/20161107/Daily20161107/bin/Debug/Daily20161107.exe.mdb
+/home/touma/repos/daily-programmer/20161107/Daily20161107/bin/Debug/Daily20161107.exe
+/home/touma/repos/daily-programmer/20161107/Daily20161107/obj/Debug/Daily20161107.exe
+/home/touma/repos/daily-programmer/20161107/Daily20161107/obj/Debug/Daily20161107.exe.mdb
