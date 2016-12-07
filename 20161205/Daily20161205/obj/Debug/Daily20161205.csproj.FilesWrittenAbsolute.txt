@@ -1,0 +1,9 @@
+/home/touma/repos/daily-programmer/20161205/Daily20161205/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/touma/repos/daily-programmer/20161205/Daily20161205/bin/Debug/xunit.abstractions.dll
+/home/touma/repos/daily-programmer/20161205/Daily20161205/bin/Debug/xunit.assert.dll
+/home/touma/repos/daily-programmer/20161205/Daily20161205/bin/Debug/xunit.core.dll
+/home/touma/repos/daily-programmer/20161205/Daily20161205/bin/Debug/xunit.execution.desktop.dll
+/home/touma/repos/daily-programmer/20161205/Daily20161205/bin/Debug/Daily20161205.exe.mdb
+/home/touma/repos/daily-programmer/20161205/Daily20161205/bin/Debug/Daily20161205.exe
+/home/touma/repos/daily-programmer/20161205/Daily20161205/obj/Debug/Daily20161205.exe
+/home/touma/repos/daily-programmer/20161205/Daily20161205/obj/Debug/Daily20161205.exe.mdb
